@@ -1,0 +1,20 @@
+{
+  "Git_User_Name": {
+    "display_name": "Git_User_Name",
+    "description": "Please enter your Git_User_Name",
+    "type": "text",
+    "required": true
+  },
+  "Git_Repo_Name": {
+    "display_name": "Git_Repo_Name",
+    "description": "Please enter your Git_Repo_Name",
+    "type": "text",
+    "required": true
+  },
+  "Git_Api_key": {
+    "display_name": "Git_Api_key",
+    "description": "Please enter your Git_Api_key",
+    "type": "text",
+    "required": true
+  }
+}
